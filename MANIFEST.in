@@ -1,0 +1,4 @@
+include Cargo.toml
+include Cargo.lock
+include src/*.rs
+
