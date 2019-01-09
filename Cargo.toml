@@ -4,11 +4,11 @@ name = "pyvalico"
 version = "0.0.1"
 
 [dependencies]
-cpython-json = "0.2.0"
+cpython-json = "0.3.0"
 valico = "2.1.0"
 
 [dependencies.cpython]
-version = "0.1.0"
+version = "0.2.1"
 features = ["extension-module"]
 
 [lib]
