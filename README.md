@@ -1,5 +1,7 @@
 # PyValico
 
+**⚠ Please Note ⚠:** This is not currently maintained due to a number of issues discovered in the upstream library which is not currently being regularly maintained.
+
 Small python wrapper around the [valico](https://github.com/rustless/valico) rust library to provide fast JSON schema validation.
 
 ## Usage
